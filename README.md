@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System
 
 ## Project Overview
@@ -169,3 +170,7 @@ We welcome contributions! Please see our `CONTRIBUTING.md` file for guidelines o
 
 ## License
 This project is licensed under the **MIT License**. Please refer to the `LICENSE` file for more information.
+=======
+# Hospital-Manage-System
+The Hospital Management System is a Spring Boot-based web application that manages the operations of a hospital, including Admins, Doctors, and Patients. It provides secure JWT-based authentication, role-based access control, and RESTful APIs for performing CRUD operations.
+>>>>>>> a48aaf9d2d1e3206d9217c9f79dd339e4a892d0f
